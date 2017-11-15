@@ -1,0 +1,14 @@
+Xft.dpi: 190
+Xft.autohint: 0
+Xft.lcdfliter: lcddefault
+Xft.hintstyle: hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
+
+URxvt.font: xft:Monospace:size=10
+URxvt*letterSpace: -2
+URxvt.scrollBar: false
+
+URxvt*foreground:White
+URxvt*background:[75]#242424
